@@ -1,4 +1,4 @@
-baseurl = "http://replace-this-with-your-domain.com/"
+baseurl = "http://techchat.science/"
 languageCode = "en-us"
 title = "Tech Chat Blog"
 theme = "hugo-type-theme"
